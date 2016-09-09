@@ -1,0 +1,21 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+jdk-apache-parent
+jdk-bsh
+jdk-build-helper-maven-plugin
+jdk-fasterxml-oss-parent
+jdk-felix
+jdk-felix-osgi-foundation
+jdk-glassfish-servlet-api
+jdk-hamcrest
+jdk-junit4
+jdk-maven-common-artifact-filters
+jdk-maven-compiler-plugin
+jdk-maven-filtering
+jdk-maven-javadoc-plugin
+jdk-maven-plugin-tools
+jdk-maven-resources-plugin
+jdk-maven-shared-incremental
+jdk-maven-site-plugin
+jdk-plexus-compiler
+jdk-surefire
